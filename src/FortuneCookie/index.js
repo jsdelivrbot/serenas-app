@@ -1,6 +1,6 @@
 import React from "react";
-import cookieOpenImage from "./fortune-cookie-open.png";
-import cookieClosedImage from "./fortune-cookie-closed.png";
+import cookieOpenImage from "./pics/fortune-cookie-open.png";
+import cookieClosedImage from "./pics/fortune-cookie-closed.png";
 import "./styles.css";
 import classnames from "classnames";
 
